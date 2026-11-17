@@ -10,28 +10,8 @@ I'm also interested in **DevOps and software infrastructure**, continuously expa
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C#" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".NET" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Angular" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img align="left" alt="TypeScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="SQL Server" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="left" alt="PostgreSQL" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Docker" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="GitHub Actions" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-
-<br />
-<br />
-
----
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,ts,angular,postgres,docker,git,github,githubactions)](https://skillicons.dev)
 
 ### 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/gabriel-costa-domiciano-a18a2a325/">
-  <img align="left" alt="LinkedIn" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
-
-<a href="mailto:gabrieldomiciano.pro@gmail.com">
-  <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
-</a>
+<a href="https://www.linkedin.com/in/gabriel-costa-domiciano-a18a2a325/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:gabrieldomiciano.pro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"></a>
