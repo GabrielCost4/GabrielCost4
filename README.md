@@ -2,7 +2,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="25" alt="Brasil"> Português
 
-Desenvolvedor de Software com atuação em sistemas de gestão logística (YMS) e graduando em Engenharia de Software.
+Desenvolvedor de Software e graduando em Engenharia de Software.
 
 Conhecimento sólido no ecossistema **C# e .NET**, com experiência em ASP.NET Core, Entity Framework Core, Angular, TypeScript e bancos de dados relacionais.
 
@@ -17,7 +17,7 @@ Possuo interesse em **DevOps e infraestrutura**, aprofundando meus conhecimentos
 
 ## <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="25" alt="Estados Unidos"> English
 
-Software Developer working with Yard Management Systems (YMS) and pursuing a Bachelor's degree in Software Engineering.
+Software Developer and pursuing a Bachelor's degree in Software Engineering.
 
 Strong knowledge of the **C# and .NET ecosystem**, with experience in ASP.NET Core, Entity Framework Core, Angular, TypeScript, and relational databases.
 
