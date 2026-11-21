@@ -1,7 +1,4 @@
-# Gabriel Costa
-
-**`Backend Developer | .NET & Applied AI`**
----
+# Gabriel Costa - **`Backend Developer | .NET & Applied AI`**
 
 ## <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="25" alt="Brasil"> Português
 
@@ -17,7 +14,6 @@ Meu foco está em pensamento computacional, arquitetura de software, modelagem d
 
 Possuo interesse em **DevOps e infraestrutura**, aprofundando meus conhecimentos em Docker, RabbitMQ, CI/CD, GitHub Actions e ambientes de produção.
 
----
 
 ## <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="25" alt="Estados Unidos"> English
 
